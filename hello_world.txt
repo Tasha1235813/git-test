@@ -1,0 +1,3 @@
+This is something new.
+Coding with Linux? Can do!
+Even in haiku.
